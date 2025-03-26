@@ -52,6 +52,6 @@ Feel free to fork this repo, make improvements, and submit a pull request!
 This project is open-source and free to use.
 
 ---
-**Author:** [Wanjiru Mariru]  
+**Author:** Wanjiru Mariru  
 
 
